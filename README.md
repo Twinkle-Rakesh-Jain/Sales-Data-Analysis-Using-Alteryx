@@ -30,6 +30,9 @@ DC Industries (a fictitious company), a prominent retail department store operat
 3. Generated regional counts for strategic insights.
 
 
+<img width="1406" alt="Screen Shot 2024-04-17 at 9 19 13 PM" src="https://github.com/Twinkle-Rakesh-Jain/Sales-Data-Analysis-Using-Alteryx/assets/159181933/044b2730-f596-42da-9377-5be5f9c07923">
+
+
    
 ### 2.Data Transformations:
 
@@ -41,6 +44,9 @@ DC Industries (a fictitious company), a prominent retail department store operat
 
 4. Integrated all relevant data into a consolidated master order file for streamlined analysis.
 
+<img width="1408" alt="Screen Shot 2024-04-18 at 9 01 54 AM" src="https://github.com/Twinkle-Rakesh-Jain/Sales-Data-Analysis-Using-Alteryx/assets/159181933/7922cc41-a64d-49b5-b240-2814ecbaf52a">
+
+
 ### 3.Ready, Set, and Analyze:
 
 1. Identified the top 25 most profitable orders to prioritize high-value transactions.
@@ -50,6 +56,9 @@ DC Industries (a fictitious company), a prominent retail department store operat
 3. Explored profitability trends by product category and region to optimize resource allocation and marketing strategies.
 
 4. Delved into sub-category performance to uncover niche opportunities for revenue growth.
+
+<img width="1416" alt="Screen Shot 2024-04-18 at 9 59 25 AM" src="https://github.com/Twinkle-Rakesh-Jain/Sales-Data-Analysis-Using-Alteryx/assets/159181933/ebd6cbc4-389b-45ae-be3d-7a92086819f3">
+
 
 ## Applications of Alteryx in Real World:
 1. Alteryx serves as a versatile platform for seamless data blending, preparation, and analysis, empowering businesses like DC Industries to unlock actionable insights.
